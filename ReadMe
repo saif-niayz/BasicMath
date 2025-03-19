@@ -1,0 +1,8 @@
+This is a C# project that implements basic mathematical operations and includes unit tests.
+
+## 📌 Features
+- **Addition**
+- **Subtraction**
+- **Multiplication**
+- **Division** (with error handling for division by zero)
+- **Unit tests using xUnit**
